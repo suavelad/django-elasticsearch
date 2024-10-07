@@ -1,3 +1,10 @@
-.env
-
+__pycache__/
+/*/__pycache__/
+backend/*/__pycache__/
+elasticsearch/*/.DS_Store
+backend/.DS_Store
 env/
+
+.env
+.DS_Store
+.vscode/
